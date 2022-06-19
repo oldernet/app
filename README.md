@@ -7,6 +7,7 @@ With OE, you can access Internet Explorer after the shutdown using a Visual Stud
 First thing's first, select a download provider to download OE...
 - [Github](https://github.com/oldernet/app/blob/main/Oldernet%20Explorer.exe?raw=true)
 - [Github (Backup)](https://github.com/oldernet/legal/blob/main/Oldernet%20Explorer.exe?raw=true)
+- [Github (Another Backup)](https://github.com/oldernet/cdn/blob/main/backup/Oldernet%20Explorer.exe?raw=true)
 
 If you're using Windows Defender, you may get a message saying `Windows Protected Your PC`. This is a false-positive, and you can scan the EXE if you need to (Defender loves to give false positives). To go around this, click the `More Info` link. A button will then appear labeled `Run Anyways`, click this. You shouldn't need to do this again.
 ## Legal 
