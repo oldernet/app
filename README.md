@@ -15,3 +15,10 @@ By using OE, you agree to the Legal documentation. You can find this...
 - In the OE app under the `Legal` tab,
 - At `git clone https://github.com/oldernet/legal` on Git, or
 - At `oldernet/legal` on Github.
+
+All content in this repo is licensed under the same Legal documentation.
+## Special Thanks
+- **[oldernet](https://github.com/oldernet)** - OE Development
+- **Visual Studio 2022** - Not discontinuing webframes, making users able to access Internet Explorer through OE
+- **Internet Explorer** - The best Google Chrome installer, RIP
+- **DuckDuckGo** - Default search engine on startup
