@@ -19,6 +19,6 @@ By using OE, you agree to the Legal documentation. You can find this...
 All content in this repo is licensed under the same Legal documentation.
 ## Special Thanks
 - **[oldernet](https://github.com/oldernet)** - OE Development
-- **Visual Studio 2022** - Not discontinuing webframes, making users able to access Internet Explorer through OE
+- **[Visual Studio 2022](https://visualstudio.microsoft.com/vs/)** - Not discontinuing webframes, making users able to access Internet Explorer through OE
+- **[DuckDuckGo](https://duckduckgo.com/)** - Default search engine on startup
 - **Internet Explorer** - The best Google Chrome installer, RIP
-- **DuckDuckGo** - Default search engine on startup
